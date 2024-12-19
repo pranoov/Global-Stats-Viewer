@@ -6,7 +6,7 @@ factors like CO2 Emissions. If the user chooses to analyze the top 5 countries t
 data about the countries, or it can show individual country data through a bar graph. Using these graphs change in countries 
 data can be seen. Also there is an option to view live data about carbon intensity for the users region which is fetched from an API.
 
-## How to use the project 
+## Usage 
 - Run GUI class
 - The Menu page opens up 
 - Choose what data type you want, and how you want it the top 5 countries or one country (if its one country choose which country)

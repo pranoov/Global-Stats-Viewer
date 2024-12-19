@@ -1,4 +1,4 @@
-# Country Data Viewer
+# Global Statistics Viewer
 
 ## What is this project?
 This project is designed to allow users to examine data about countries especially their environmental
